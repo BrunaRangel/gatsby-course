@@ -30,7 +30,8 @@ return (
             cover
             direction="left"
             bg={getThemeColor()}
-            duration={0.6}>
+            duration={0.6}
+            >
              <Avatar />
             <S.ProfileAuthor>{title}
             <S.ProfilePosition>{position}</S.ProfilePosition>
